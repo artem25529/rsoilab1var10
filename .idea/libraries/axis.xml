@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="axis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Мусор/РСОИ/rsoi-lab1-farm/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Мусор/РСОИ/rsoi-lab1-farm/lib/javax.xml.rpc-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Мусор/РСОИ/rsoi-lab1-farm/lib/commons-discovery-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Мусор/РСОИ/rsoi-lab1-farm/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Мусор/РСОИ/rsoi-lab1-farm/lib/jaxws-rt-3.0.2.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_202/lib/tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_202/lib/tools.jar!/" />
+    </SOURCES>
+  </library>
+</component>
